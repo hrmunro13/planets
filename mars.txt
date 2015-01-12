@@ -5,4 +5,6 @@ read
 retrograde motion
 2 moons
 dry
+Thin atmoshpere
+sparsley populated
 
